@@ -9,7 +9,9 @@
 
 ## 🎓 Education
 
-**B.S. Computer Science — University of Minnesota Twin Cities**
+**Computer Science, B.S. Candidate — University of Minnesota Twin Cities**
+
+Junior
 
 ## 🛠️ Languages, Frameworks & Tools
 
